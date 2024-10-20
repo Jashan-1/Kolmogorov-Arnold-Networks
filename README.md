@@ -39,7 +39,7 @@ The **Kolmogorov-Arnold Network (KAN)** experiment is focused on testing the cap
 
 Key aspects of the project include:
 - Implementation of a KAN model using Python and PyTorch.
-- Training the model on key-exchange cryptographic data and performing evaluations.
+- Training the model on generated data and performing evaluations.
 - Investigating the impact of structured knowledge on the model's learning and performance.
 
 For more information on the KAN architecture and its background, refer to the research paper ["Knowledge Graphs: Enhancing Neural Networks Through Structured Reasoning"](https://arxiv.org/abs/2404.19756).
@@ -84,7 +84,8 @@ Once installed, you can start experimenting with the KAN model by running the no
 
 1. Open the Jupyter notebook (`kan_experiment_file.ipynb`) in Google Colab or Jupyter Lab.
 2. Follow the step-by-step instructions in the notebook to train the KAN model on the dataset.
-3. Modify parameters like `width`, `grid`, and `k` to explore different configurations.
+3. Run the code in a sequence to avoid errors.
+4. Modify parameters like `width`, `grid`, and `k` to explore different configurations.
 
 Example command to run in your local environment:
 ```bash
@@ -102,7 +103,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 Your Name - [686jashan@gmail.com](mailto:686jashan@gmail.com)
-Project Link: [https://github.com/Jashan-1/kan-experiment](https://github.com/Jashan-1/kan-experiment)
+Project Link: [https://github.com/Jashan-1/Kolmogorov-Arnold-Networks](https://github.com/Jashan-1/Kolmogorov-Arnold-Networks)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
